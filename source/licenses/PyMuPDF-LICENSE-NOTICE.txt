@@ -1,0 +1,6 @@
+PyMuPDF is dual-licensed under the GNU Affero General Public License version 3 (AGPL-3.0) or a separate commercial license from Artifex.
+
+This package does not include or grant an Artifex commercial license. Review the complete AGPL-3.0 terms and PyMuPDF licensing information before redistributing or using this software commercially.
+
+PyMuPDF license information: https://pymupdf.readthedocs.io/en/latest/about.html
+AGPL-3.0 full text: https://www.gnu.org/licenses/agpl-3.0.html
